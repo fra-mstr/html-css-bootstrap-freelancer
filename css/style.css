@@ -1,0 +1,49 @@
+* {
+  box-sizing: content-box;
+  margin: 0;
+  padding: 0;
+}
+
+[class*="col-"] {
+  border: 2px solid violet;
+}
+
+/* nav */
+nav {
+  height: 100px;
+  background-color: #2C3E50;
+}
+
+
+/* header */
+header {
+  height: 500px;
+  background-color: #1ABC9C;
+}
+
+/* portfolio */
+.portfolio {
+  height: 650px;
+  background-color: white;
+}
+
+
+/* about */
+.about {
+  height: 500px;
+  background-color: #1ABC9C;
+}
+
+
+/* contact */
+.contact {
+  height: 650px;
+  background-color: white;
+}
+
+
+/* footer */
+footer {
+  height: 300px;
+  background-color: #2C3E50;
+}
